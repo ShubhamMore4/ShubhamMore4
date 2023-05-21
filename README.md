@@ -25,7 +25,7 @@
 <img src="https://user-images.githubusercontent.com/94888819/179422108-0108ecc4-96d4-4a9f-93d2-f4f2ea98688e.png" alt="stream" width="40" height="50"/> </a>
  
 ## `Projects:`
-### [Stock Market Price Prediction](https://moindalvs-co2-emission-forecasting-final-github-backup-vrz2x6.streamlitapp.com/)
+### [Stock Market Price Prediction](https://github.com/ShubhamMore4/Project-Stock_Price_Prediction)
 ### [Resume Classification](https://github.com/ShubhamMore4/Project-Resume_Classification)
 
 ## `Connect with me:`
