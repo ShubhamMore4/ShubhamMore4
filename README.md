@@ -26,7 +26,7 @@
  
 ## `Projects:`
 ### [Stock Market Price Prediction](https://moindalvs-co2-emission-forecasting-final-github-backup-vrz2x6.streamlitapp.com/)
-### [Resume Classification](https://moindalvs-co2-emission-forecasting-final-github-backup-vrz2x6.streamlitapp.com/)
+### [Resume Classification](https://github.com/ShubhamMore4/Project-Resume_Classification)
 
 ## `Connect with me:`
 <p align="left">
