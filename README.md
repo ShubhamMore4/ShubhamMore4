@@ -13,7 +13,6 @@
 
 - 💬 Ask me about **Machine Learning, Deep learning, Excel, SQl and PowerBI**
 
-- 📫 reach me at **shubh04112001@gmail.com**
 
 
 
